@@ -1,0 +1,32 @@
+price=122
+rate=7.8
+name="helmet"
+variant=["small","medium","large"]
+p_range=(23,11,89)
+customer_id={122,123,124}
+detail={
+    "name":"vetri",
+    "age":22
+}
+i=True
+d=None
+b=bytes([10,20,255])
+ba=bytearray([10,20,255])
+fz=frozenset({10,20,30})
+numbers=range(100)
+comp=1+5j
+
+print(type(price))
+print(type(rate))
+print(type(name))
+print(type(variant))
+print(type(p_range))
+print(type(customer_id))
+print(type(detail))
+print(type(i))
+print(type(d))
+print(type(b))
+print(type(ba))
+print(type(fz))
+print(type(numbers))
+print(type(comp))
