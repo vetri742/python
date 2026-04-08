@@ -1,0 +1,7 @@
+fp1=open("user.txt","r")
+fp2=open("newfile.txt","w")
+data=fp1.read()
+fp2.write(data)
+print("new file created")
+fp1.close()
+fp2.close()
