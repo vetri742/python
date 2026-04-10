@@ -1,0 +1,10 @@
+[{"eid": 1, "username": "Basilius", "gender": "Male"},
+ {"eid": 2, "username": "Pepita", "gender": "Female"}, 
+ {"eid": 3, "username": "Amerigo", "gender": "Male"}, 
+ {"eid": 4, "username": "Jerri", "gender": "Male"}, 
+ {"eid": 5, "username": "Cal", "gender": "Male"}, 
+ {"eid": 6, "username": "Trude", "gender": "Female"},
+  {"eid": 7, "username": "Adah", "gender": "Female"},
+   {"eid": 8, "username": "Denny", "gender": "Agender"},
+  {"eid": 9, "username": "Valle", "gender": "Male"}, 
+  {"eid": 10, "username": "Sollie", "gender": "Male"}]
